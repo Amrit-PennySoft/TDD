@@ -6,6 +6,7 @@ Someone once said to me 'unit testing will change the way you think about code' 
 
 
 Mocha - a JS test framework.
+
 Chai - Chai is a BDD / TDD assertion library.
 
 Setup
