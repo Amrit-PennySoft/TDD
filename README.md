@@ -12,7 +12,9 @@ Chai - Chai is a BDD / TDD assertion library.
 Setup
 
 Install Nodejs
+
 Install Mocha by running npm install
+
 Install Chai by running npm install
 
 Run npm install to install all dependencies from package.json
